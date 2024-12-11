@@ -1,0 +1,180 @@
+[11/28 15:56:12.602644][debug][13352][Context.cpp:30] Context creating, work_dir=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner
+[11/28 15:56:12.603180][debug][13352][Context.cpp:49] Config file version=1.1
+[11/28 15:56:12.603964][debug][13352][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[11/28 15:56:12.604038][info][13352][Context.cpp:68] Context created with config: default config!
+[11/28 15:56:12.604300][info][13352][Context.cpp:73] Work directory=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner, SDK version=v1.10.8-20240604-d1671a341
+[11/28 15:56:12.604477][debug][13352][DeviceManager.cpp:30] DeviceManager init ...
+[11/28 15:56:12.604503][info][13352][MfPal.cpp:103] createObPal: create WinPal!
+[11/28 15:56:12.604520][debug][13352][MfPal.cpp:108] WmfPal init ...
+[11/28 15:56:12.632519][debug][13352][MfPal.cpp:115] WmfPal created!
+[11/28 15:56:12.632577][debug][13352][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[11/28 15:56:12.664664][debug][13352][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[11/28 15:56:12.665744][debug][13352][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[11/28 15:56:12.666474][debug][13352][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[11/28 15:56:12.666555][info][13352][DeviceManager.cpp:15] Current found device(s): (0)
+[11/28 15:56:12.666568][debug][13352][DeviceManager.cpp:52] DeviceManager construct done!
+[11/28 15:56:12.667101][debug][13352][Context.cpp:81] Context destroying ...
+[11/28 15:56:12.667136][debug][13352][DeviceManager.cpp:56] DeviceManager destroy ...
+[11/28 15:56:12.667147][debug][13352][DeviceManager.cpp:64] DeviceManager Destructors done
+[11/28 15:56:12.672546][debug][13352][MfPal.cpp:126] WmfPal destroyed!
+[11/28 15:56:12.673542][info][13352][Context.cpp:84] Context destroyed
+[11/28 15:56:12.674550][debug][13352][Context.cpp:30] Context creating, work_dir=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner
+[11/28 15:56:12.674658][debug][13352][Context.cpp:49] Config file version=1.1
+[11/28 15:56:12.674721][debug][13352][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[11/28 15:56:12.674744][info][13352][Context.cpp:68] Context created with config: default config!
+[11/28 15:56:12.674758][info][13352][Context.cpp:73] Work directory=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner, SDK version=v1.10.8-20240604-d1671a341
+[11/28 15:56:12.674774][debug][13352][DeviceManager.cpp:30] DeviceManager init ...
+[11/28 15:56:12.674785][info][13352][MfPal.cpp:103] createObPal: create WinPal!
+[11/28 15:56:12.674795][debug][13352][MfPal.cpp:108] WmfPal init ...
+[11/28 15:56:12.705360][debug][13352][MfPal.cpp:115] WmfPal created!
+[11/28 15:56:12.705442][debug][13352][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[11/28 15:56:12.730258][debug][13352][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[11/28 15:56:12.730997][debug][13352][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[11/28 15:56:12.731565][debug][13352][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[11/28 15:56:12.731608][info][13352][DeviceManager.cpp:15] Current found device(s): (0)
+[11/28 15:56:12.731619][debug][13352][DeviceManager.cpp:52] DeviceManager construct done!
+[11/28 15:56:12.731635][debug][13352][Context.cpp:81] Context destroying ...
+[11/28 15:56:12.731644][debug][13352][DeviceManager.cpp:56] DeviceManager destroy ...
+[11/28 15:56:12.731653][debug][13352][DeviceManager.cpp:64] DeviceManager Destructors done
+[11/28 15:56:12.735860][debug][13352][MfPal.cpp:126] WmfPal destroyed!
+[11/28 15:56:12.736622][info][13352][Context.cpp:84] Context destroyed
+[11/28 15:56:12.737576][debug][13352][Context.cpp:30] Context creating, work_dir=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner
+[11/28 15:56:12.737688][debug][13352][Context.cpp:49] Config file version=1.1
+[11/28 15:56:12.737721][debug][13352][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[11/28 15:56:12.737995][info][13352][Context.cpp:68] Context created with config: default config!
+[11/28 15:56:12.738083][info][13352][Context.cpp:73] Work directory=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner, SDK version=v1.10.8-20240604-d1671a341
+[11/28 15:56:12.738152][debug][13352][DeviceManager.cpp:30] DeviceManager init ...
+[11/28 15:56:12.738166][info][13352][MfPal.cpp:103] createObPal: create WinPal!
+[11/28 15:56:12.738177][debug][13352][MfPal.cpp:108] WmfPal init ...
+[11/28 15:56:12.763337][debug][13352][MfPal.cpp:115] WmfPal created!
+[11/28 15:56:12.763415][debug][13352][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[11/28 15:56:12.790824][debug][13352][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[11/28 15:56:12.791770][debug][13352][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[11/28 15:56:12.792512][debug][13352][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[11/28 15:56:12.792584][info][13352][DeviceManager.cpp:15] Current found device(s): (0)
+[11/28 15:56:12.792603][debug][13352][DeviceManager.cpp:52] DeviceManager construct done!
+[11/28 15:56:12.792629][debug][13352][Context.cpp:81] Context destroying ...
+[11/28 15:56:12.792646][debug][13352][DeviceManager.cpp:56] DeviceManager destroy ...
+[11/28 15:56:12.792662][debug][13352][DeviceManager.cpp:64] DeviceManager Destructors done
+[11/28 15:56:12.796955][debug][13352][MfPal.cpp:126] WmfPal destroyed!
+[11/28 15:56:12.797948][info][13352][Context.cpp:84] Context destroyed
+[11/28 15:58:27.717456][debug][20532][Context.cpp:30] Context creating, work_dir=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner
+[11/28 15:58:27.717615][debug][20532][Context.cpp:49] Config file version=1.1
+[11/28 15:58:27.717647][debug][20532][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[11/28 15:58:27.717683][info][20532][Context.cpp:68] Context created with config: default config!
+[11/28 15:58:27.717697][info][20532][Context.cpp:73] Work directory=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner, SDK version=v1.10.8-20240604-d1671a341
+[11/28 15:58:27.717712][debug][20532][DeviceManager.cpp:30] DeviceManager init ...
+[11/28 15:58:27.717722][info][20532][MfPal.cpp:103] createObPal: create WinPal!
+[11/28 15:58:27.717733][debug][20532][MfPal.cpp:108] WmfPal init ...
+[11/28 15:58:27.742209][debug][20532][MfPal.cpp:115] WmfPal created!
+[11/28 15:58:27.742375][debug][20532][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[11/28 15:58:27.765949][debug][20532][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[11/28 15:58:27.767059][debug][20532][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[11/28 15:58:27.767985][debug][20532][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[11/28 15:58:27.768065][info][20532][DeviceManager.cpp:15] Current found device(s): (0)
+[11/28 15:58:27.768077][debug][20532][DeviceManager.cpp:52] DeviceManager construct done!
+[11/28 15:58:27.768097][debug][20532][Context.cpp:81] Context destroying ...
+[11/28 15:58:27.768105][debug][20532][DeviceManager.cpp:56] DeviceManager destroy ...
+[11/28 15:58:27.768113][debug][20532][DeviceManager.cpp:64] DeviceManager Destructors done
+[11/28 15:58:27.775174][debug][20532][MfPal.cpp:126] WmfPal destroyed!
+[11/28 15:58:27.776094][info][20532][Context.cpp:84] Context destroyed
+[11/28 15:58:27.777293][debug][20532][Context.cpp:30] Context creating, work_dir=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner
+[11/28 15:58:27.777381][debug][20532][Context.cpp:49] Config file version=1.1
+[11/28 15:58:27.777398][debug][20532][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[11/28 15:58:27.777413][info][20532][Context.cpp:68] Context created with config: default config!
+[11/28 15:58:27.777422][info][20532][Context.cpp:73] Work directory=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner, SDK version=v1.10.8-20240604-d1671a341
+[11/28 15:58:27.777435][debug][20532][DeviceManager.cpp:30] DeviceManager init ...
+[11/28 15:58:27.777443][info][20532][MfPal.cpp:103] createObPal: create WinPal!
+[11/28 15:58:27.777495][debug][20532][MfPal.cpp:108] WmfPal init ...
+[11/28 15:58:27.796958][debug][20532][MfPal.cpp:115] WmfPal created!
+[11/28 15:58:27.797022][debug][20532][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[11/28 15:58:27.816183][debug][20532][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[11/28 15:58:27.817025][debug][20532][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[11/28 15:58:27.817941][debug][20532][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[11/28 15:58:27.818004][info][20532][DeviceManager.cpp:15] Current found device(s): (0)
+[11/28 15:58:27.818014][debug][20532][DeviceManager.cpp:52] DeviceManager construct done!
+[11/28 15:58:27.818057][debug][20532][Context.cpp:81] Context destroying ...
+[11/28 15:58:27.818066][debug][20532][DeviceManager.cpp:56] DeviceManager destroy ...
+[11/28 15:58:27.818127][debug][20532][DeviceManager.cpp:64] DeviceManager Destructors done
+[11/28 15:58:27.824873][debug][20532][MfPal.cpp:126] WmfPal destroyed!
+[11/28 15:58:27.825681][info][20532][Context.cpp:84] Context destroyed
+[11/28 15:58:27.828550][debug][20532][Context.cpp:30] Context creating, work_dir=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner
+[11/28 15:58:27.828648][debug][20532][Context.cpp:49] Config file version=1.1
+[11/28 15:58:27.828673][debug][20532][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[11/28 15:58:27.828694][info][20532][Context.cpp:68] Context created with config: default config!
+[11/28 15:58:27.828709][info][20532][Context.cpp:73] Work directory=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner, SDK version=v1.10.8-20240604-d1671a341
+[11/28 15:58:27.828728][debug][20532][DeviceManager.cpp:30] DeviceManager init ...
+[11/28 15:58:27.828748][info][20532][MfPal.cpp:103] createObPal: create WinPal!
+[11/28 15:58:27.828760][debug][20532][MfPal.cpp:108] WmfPal init ...
+[11/28 15:58:27.851512][debug][20532][MfPal.cpp:115] WmfPal created!
+[11/28 15:58:27.851565][debug][20532][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[11/28 15:58:27.869931][debug][20532][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[11/28 15:58:27.871511][debug][20532][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[11/28 15:58:27.872485][debug][20532][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[11/28 15:58:27.872516][info][20532][DeviceManager.cpp:15] Current found device(s): (0)
+[11/28 15:58:27.872534][debug][20532][DeviceManager.cpp:52] DeviceManager construct done!
+[11/28 15:58:27.872547][debug][20532][Context.cpp:81] Context destroying ...
+[11/28 15:58:27.872554][debug][20532][DeviceManager.cpp:56] DeviceManager destroy ...
+[11/28 15:58:27.872562][debug][20532][DeviceManager.cpp:64] DeviceManager Destructors done
+[11/28 15:58:27.877961][debug][20532][MfPal.cpp:126] WmfPal destroyed!
+[11/28 15:58:27.879301][info][20532][Context.cpp:84] Context destroyed
+[11/28 16:09:34.016827][debug][16272][Context.cpp:30] Context creating, work_dir=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner
+[11/28 16:09:34.017054][debug][16272][Context.cpp:49] Config file version=1.1
+[11/28 16:09:34.017085][debug][16272][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[11/28 16:09:34.017103][info][16272][Context.cpp:68] Context created with config: default config!
+[11/28 16:09:34.017133][info][16272][Context.cpp:73] Work directory=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner, SDK version=v1.10.8-20240604-d1671a341
+[11/28 16:09:34.017147][debug][16272][DeviceManager.cpp:30] DeviceManager init ...
+[11/28 16:09:34.017193][info][16272][MfPal.cpp:103] createObPal: create WinPal!
+[11/28 16:09:34.017203][debug][16272][MfPal.cpp:108] WmfPal init ...
+[11/28 16:09:34.041821][debug][16272][MfPal.cpp:115] WmfPal created!
+[11/28 16:09:34.041873][debug][16272][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[11/28 16:09:34.063223][debug][16272][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[11/28 16:09:34.064096][debug][16272][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[11/28 16:09:34.064700][debug][16272][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[11/28 16:09:34.064756][info][16272][DeviceManager.cpp:15] Current found device(s): (0)
+[11/28 16:09:34.064769][debug][16272][DeviceManager.cpp:52] DeviceManager construct done!
+[11/28 16:09:34.064791][debug][16272][Context.cpp:81] Context destroying ...
+[11/28 16:09:34.064802][debug][16272][DeviceManager.cpp:56] DeviceManager destroy ...
+[11/28 16:09:34.064836][debug][16272][DeviceManager.cpp:64] DeviceManager Destructors done
+[11/28 16:09:34.070890][debug][16272][MfPal.cpp:126] WmfPal destroyed!
+[11/28 16:09:34.072122][info][16272][Context.cpp:84] Context destroyed
+[11/28 16:09:34.073127][debug][16272][Context.cpp:30] Context creating, work_dir=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner
+[11/28 16:09:34.073246][debug][16272][Context.cpp:49] Config file version=1.1
+[11/28 16:09:34.073269][debug][16272][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[11/28 16:09:34.073289][info][16272][Context.cpp:68] Context created with config: default config!
+[11/28 16:09:34.073302][info][16272][Context.cpp:73] Work directory=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner, SDK version=v1.10.8-20240604-d1671a341
+[11/28 16:09:34.073318][debug][16272][DeviceManager.cpp:30] DeviceManager init ...
+[11/28 16:09:34.073329][info][16272][MfPal.cpp:103] createObPal: create WinPal!
+[11/28 16:09:34.073344][debug][16272][MfPal.cpp:108] WmfPal init ...
+[11/28 16:09:34.093581][debug][16272][MfPal.cpp:115] WmfPal created!
+[11/28 16:09:34.093647][debug][16272][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[11/28 16:09:34.110727][debug][16272][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[11/28 16:09:34.111506][debug][16272][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[11/28 16:09:34.112014][debug][16272][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[11/28 16:09:34.112044][info][16272][DeviceManager.cpp:15] Current found device(s): (0)
+[11/28 16:09:34.112053][debug][16272][DeviceManager.cpp:52] DeviceManager construct done!
+[11/28 16:09:34.112067][debug][16272][Context.cpp:81] Context destroying ...
+[11/28 16:09:34.112074][debug][16272][DeviceManager.cpp:56] DeviceManager destroy ...
+[11/28 16:09:34.112082][debug][16272][DeviceManager.cpp:64] DeviceManager Destructors done
+[11/28 16:09:34.117184][debug][16272][MfPal.cpp:126] WmfPal destroyed!
+[11/28 16:09:34.117953][info][16272][Context.cpp:84] Context destroyed
+[11/28 16:09:34.120921][debug][16272][Context.cpp:30] Context creating, work_dir=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner
+[11/28 16:09:34.121034][debug][16272][Context.cpp:49] Config file version=1.1
+[11/28 16:09:34.121068][debug][16272][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[11/28 16:09:34.121095][info][16272][Context.cpp:68] Context created with config: default config!
+[11/28 16:09:34.121113][info][16272][Context.cpp:73] Work directory=C:\HSD\MP2 Kinetic Light\KineticLights_Unity_x_TouchDesigner, SDK version=v1.10.8-20240604-d1671a341
+[11/28 16:09:34.121135][debug][16272][DeviceManager.cpp:30] DeviceManager init ...
+[11/28 16:09:34.121151][info][16272][MfPal.cpp:103] createObPal: create WinPal!
+[11/28 16:09:34.121166][debug][16272][MfPal.cpp:108] WmfPal init ...
+[11/28 16:09:34.141228][debug][16272][MfPal.cpp:115] WmfPal created!
+[11/28 16:09:34.141290][debug][16272][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[11/28 16:09:34.158078][debug][16272][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[11/28 16:09:34.158962][debug][16272][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[11/28 16:09:34.159567][debug][16272][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[11/28 16:09:34.159593][info][16272][DeviceManager.cpp:15] Current found device(s): (0)
+[11/28 16:09:34.159602][debug][16272][DeviceManager.cpp:52] DeviceManager construct done!
+[11/28 16:09:34.159615][debug][16272][Context.cpp:81] Context destroying ...
+[11/28 16:09:34.159710][debug][16272][DeviceManager.cpp:56] DeviceManager destroy ...
+[11/28 16:09:34.159726][debug][16272][DeviceManager.cpp:64] DeviceManager Destructors done
+[11/28 16:09:34.165053][debug][16272][MfPal.cpp:126] WmfPal destroyed!
+[11/28 16:09:34.165962][info][16272][Context.cpp:84] Context destroyed
