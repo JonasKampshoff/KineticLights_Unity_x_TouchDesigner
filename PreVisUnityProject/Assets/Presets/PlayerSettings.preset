@@ -13,19 +13,19 @@ Preset:
     m_ManagedTypeFallback: 
   m_Properties:
   - target: {fileID: 0}
-    propertyPath: productGUID.data[0]
+    propertyPath: 'productGUID.data[0]'
     value: 1640269161
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: productGUID.data[1]
+    propertyPath: 'productGUID.data[1]'
     value: 1130796101
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: productGUID.data[2]
+    propertyPath: 'productGUID.data[2]'
     value: 1671099051
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: productGUID.data[3]
+    propertyPath: 'productGUID.data[3]'
     value: 1594894511
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -201,6 +201,18 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: unsupportedMSAAFallback
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteBatchMaxVertexCount
+    value: 65535
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteBatchVertexThreshold
+    value: 300
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: m_MTRendering
     value: 1
     objectReference: {fileID: 0}
@@ -213,31 +225,35 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: numberOfMipsStrippedPerMipmapLimitGroup.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: m_StackTraceTypes.Array.size
     value: 6
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_StackTraceTypes.Array.data[0]
+    propertyPath: 'm_StackTraceTypes.Array.data[0]'
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_StackTraceTypes.Array.data[1]
+    propertyPath: 'm_StackTraceTypes.Array.data[1]'
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_StackTraceTypes.Array.data[2]
+    propertyPath: 'm_StackTraceTypes.Array.data[2]'
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_StackTraceTypes.Array.data[3]
+    propertyPath: 'm_StackTraceTypes.Array.data[3]'
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_StackTraceTypes.Array.data[4]
+    propertyPath: 'm_StackTraceTypes.Array.data[4]'
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_StackTraceTypes.Array.data[5]
+    propertyPath: 'm_StackTraceTypes.Array.data[5]'
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -251,10 +267,6 @@ Preset:
   - target: {fileID: 0}
     propertyPath: iosUseCustomAppBackgroundBehavior
     value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: iosAllowHTTPDownload
-    value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: allowedAutorotateToPortrait
@@ -305,6 +317,42 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: androidResizeableActivity
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidDefaultWindowWidth
+    value: 1920
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidDefaultWindowHeight
+    value: 1080
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidMinimumWindowWidth
+    value: 400
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidMinimumWindowHeight
+    value: 300
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidFullscreenMode
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidAutoRotationBehavior
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidPredictiveBackSupport
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidApplicationEntry
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: defaultIsNativeResolution
     value: 1
     objectReference: {fileID: 0}
@@ -315,10 +363,6 @@ Preset:
   - target: {fileID: 0}
     propertyPath: runInBackground
     value: 1
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: captureSingleScreen
-    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: muteOtherAudioSources
@@ -349,6 +393,10 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: dedicatedServerOptimizations
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: bakeCollisionMeshes
     value: 0
     objectReference: {fileID: 0}
@@ -375,6 +423,10 @@ Preset:
   - target: {fileID: 0}
     propertyPath: gpuSkinning
     value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshDeformation
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: xboxPIXTextureCapture
@@ -485,6 +537,14 @@ Preset:
     value: 16777216
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: switchGpuScratchPoolGranularity
+    value: 2097152
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchAllowGpuScratchShrinking
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: switchNVNMaxPublicTextureIDCount
     value: 0
     objectReference: {fileID: 0}
@@ -493,12 +553,12 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: stadiaPresentMode
-    value: 0
+    propertyPath: switchMaxWorkerMultiple
+    value: 8
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: stadiaTargetFramerate
-    value: 0
+    propertyPath: switchNVNGraphicsFirmwareMemory
+    value: 32
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: vulkanNumSwapchainBuffers
@@ -509,24 +569,28 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_SupportedAspectRatios.4:3
+    propertyPath: vulkanEnablePreTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: vulkanEnableLateAcquireNextImage
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: vulkanEnableCommandBufferRecycling
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_SupportedAspectRatios.5:4
-    value: 1
+    propertyPath: loadStoreDebugModeEnabled
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_SupportedAspectRatios.16:10
-    value: 1
+    propertyPath: visionOSBundleVersion
+    value: 1.0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_SupportedAspectRatios.16:9
-    value: 1
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: m_SupportedAspectRatios.Others
-    value: 1
+    propertyPath: tvOSBundleVersion
+    value: 1.0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: bundleVersion
@@ -557,86 +621,6 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: vrSettings.cardboard.depthFormat
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.cardboard.enableTransitionView
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.daydream.depthFormat
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.daydream.useSustainedPerformanceMode
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.daydream.enableVideoLayer
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.daydream.useProtectedVideoMemory
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.daydream.minimumSupportedHeadTracking
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.daydream.maximumSupportedHeadTracking
-    value: 1
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.hololens.depthFormat
-    value: 1
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.hololens.depthBufferSharingEnabled
-    value: 1
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.lumin.depthFormat
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.lumin.frameTiming
-    value: 2
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.lumin.enableGLCache
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.lumin.glCacheMaxBlobSize
-    value: 524288
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.lumin.glCacheMaxFileSize
-    value: 8388608
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.oculus.sharedDepthBuffer
-    value: 1
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.oculus.dashSupport
-    value: 1
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.oculus.lowOverheadMode
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.oculus.protectedContext
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrSettings.oculus.v2Signing
-    value: 1
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
     propertyPath: vrSettings.enable360StereoCapture
     value: 0
     objectReference: {fileID: 0}
@@ -649,11 +633,19 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: enableOpenGLProfilerGPURecorders
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: allowHDRDisplaySupport
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: useHDRDisplay
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: D3DHDRBitDepth
+    propertyPath: hdrBitDepth
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -661,7 +653,7 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_ColorGamuts.Array.data[0]
+    propertyPath: 'm_ColorGamuts.Array.data[0]'
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -673,6 +665,10 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: resetResolutionOnWindowResize
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: androidSupportedAspectRatio
     value: 1
     objectReference: {fileID: 0}
@@ -681,11 +677,59 @@ Preset:
     value: 2.1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: androidMinAspectRatio
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: applicationIdentifier.Array.size
-    value: 0
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: applicationIdentifier.Array.data[0].first
+    value: Standalone
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: applicationIdentifier.Array.data[0].second
+    value: com.DefaultCompany.DMXtools
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: buildNumber.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buildNumber.Array.data[0].first
+    value: Standalone
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buildNumber.Array.data[0].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buildNumber.Array.data[1].first
+    value: VisionOS
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buildNumber.Array.data[1].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buildNumber.Array.data[2].first
+    value: iPhone
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buildNumber.Array.data[2].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buildNumber.Array.data[3].first
+    value: tvOS
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buildNumber.Array.data[3].second
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: overrideDefaultApplicationIdentifier
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -694,7 +738,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: AndroidMinSdkVersion
-    value: 19
+    value: 23
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: AndroidTargetSdkVersion
@@ -733,7 +777,7 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: APKExpansionFiles
+    propertyPath: androidSplitApplicationBinary
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -745,6 +789,10 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: strictShaderVariantMatching
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: VertexChannelCompressionMask
     value: 4054
     objectReference: {fileID: 0}
@@ -753,11 +801,19 @@ Preset:
     value: 988
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: iOSSimulatorArchitecture
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: iOSTargetOSVersionString
-    value: 11.0
+    value: 13.0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: tvOSSdkVersion
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tvOSSimulatorArchitecture
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -766,7 +822,15 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: tvOSTargetOSVersionString
-    value: 11.0
+    value: 13.0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: VisionOSSdkVersion
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: VisionOSTargetOSVersionString
+    value: 1.0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: uIPrerenderedIcon
@@ -857,10 +921,6 @@ Preset:
     value: 100
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: iOSLaunchScreenCustomXibPath
-    value: 
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
     propertyPath: iOSLaunchScreeniPadType
     value: 0
     objectReference: {fileID: 0}
@@ -881,15 +941,11 @@ Preset:
     value: 100
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: iOSLaunchScreeniPadCustomXibPath
+    propertyPath: iOSLaunchScreenCustomStoryboardPath
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: iOSUseLaunchScreenStoryboard
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: iOSLaunchScreenCustomStoryboardPath
+    propertyPath: iOSLaunchScreeniPadCustomStoryboardPath
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -898,6 +954,10 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: iOSURLSchemes.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: macOSURLSchemes.Array.size
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -917,7 +977,15 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: metalCompileShaderBinary
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: iOSRenderExtraFrameOnPause
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: iosCopyPluginsCodeInsteadOfSymlink
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -933,11 +1001,19 @@ Preset:
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: VisionOSManualSigningProvisioningProfileID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: iOSManualSigningProvisioningProfileType
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: tvOSManualSigningProvisioningProfileType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: VisionOSManualSigningProvisioningProfileType
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -957,19 +1033,23 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: clonedFromGUID.data[0]
+    propertyPath: shaderPrecisionModel
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: 'clonedFromGUID.data[0]'
     value: 487455244
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: clonedFromGUID.data[1]
+    propertyPath: 'clonedFromGUID.data[1]'
     value: 1130619021
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: clonedFromGUID.data[2]
+    propertyPath: 'clonedFromGUID.data[2]'
     value: 3880562074
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: clonedFromGUID.data[3]
+    propertyPath: 'clonedFromGUID.data[3]'
     value: 2925674664
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -979,6 +1059,38 @@ Preset:
   - target: {fileID: 0}
     propertyPath: templateDefaultScene
     value: Assets/Scenes/SampleScene.unity
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useCustomMainManifest
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useCustomLauncherManifest
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useCustomMainGradleTemplate
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useCustomLauncherGradleManifest
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useCustomBaseGradleTemplate
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useCustomGradlePropertiesTemplate
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useCustomGradleSettingsTemplate
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useCustomProguardFile
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: AndroidTargetArchitectures
@@ -999,6 +1111,14 @@ Preset:
   - target: {fileID: 0}
     propertyPath: AndroidKeyaliasName
     value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: AndroidEnableArmv9SecurityFeatures
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: AndroidEnableArm64MTE
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: AndroidBuildApkPerCpuArchitecture
@@ -1049,10 +1169,6 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: AndroidMinifyWithR8
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
     propertyPath: AndroidMinifyRelease
     value: 0
     objectReference: {fileID: 0}
@@ -1067,6 +1183,14 @@ Preset:
   - target: {fileID: 0}
     propertyPath: AndroidAppBundleSizeToValidate
     value: 150
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: AndroidReportGooglePlayAppDependencies
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidSymbolsSizeThreshold
+    value: 800
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_BuildTargetIcons.Array.size
@@ -1138,6 +1262,10 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_BuildTargetBatching.Array.data[4].m_DynamicBatching
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_BuildTargetShaderSettings.Array.size
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -1281,11 +1409,11 @@ Preset:
     value: 2
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_BuildTargetGraphicsAPIs.Array.data[0].m_APIs.Array.data[0]
+    propertyPath: 'm_BuildTargetGraphicsAPIs.Array.data[0].m_APIs.Array.data[0]'
     value: 21
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_BuildTargetGraphicsAPIs.Array.data[0].m_APIs.Array.data[1]
+    propertyPath: 'm_BuildTargetGraphicsAPIs.Array.data[0].m_APIs.Array.data[1]'
     value: 11
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -1301,7 +1429,7 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_BuildTargetGraphicsAPIs.Array.data[1].m_APIs.Array.data[0]
+    propertyPath: 'm_BuildTargetGraphicsAPIs.Array.data[1].m_APIs.Array.data[0]'
     value: 16
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -1317,7 +1445,7 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_BuildTargetGraphicsAPIs.Array.data[2].m_APIs.Array.data[0]
+    propertyPath: 'm_BuildTargetGraphicsAPIs.Array.data[2].m_APIs.Array.data[0]'
     value: 16
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -1333,7 +1461,7 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_BuildTargetGraphicsAPIs.Array.data[3].m_APIs.Array.data[0]
+    propertyPath: 'm_BuildTargetGraphicsAPIs.Array.data[3].m_APIs.Array.data[0]'
     value: 11
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -1357,12 +1485,20 @@ Preset:
     value: 2
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_BuildTargetVRSettings.Array.data[0].m_Devices.Array.data[0]
+    propertyPath: 'm_BuildTargetVRSettings.Array.data[0].m_Devices.Array.data[0]'
     value: Oculus
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: m_BuildTargetVRSettings.Array.data[0].m_Devices.Array.data[1]
+    propertyPath: 'm_BuildTargetVRSettings.Array.data[0].m_Devices.Array.data[1]'
     value: OpenVR
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_DefaultShaderChunkSizeInMB
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_DefaultShaderChunkCount
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: openGLRequireES31
@@ -1449,6 +1585,18 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: m_BuildTargetGroupLoadStoreDebugModeSettings.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_BuildTargetNormalMapEncoding.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_BuildTargetDefaultTextureCompressionFormat.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: playModeTestRunnerEnabled
     value: 0
     objectReference: {fileID: 0}
@@ -1458,6 +1606,10 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: actionOnDotNetUnhandledException
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: editorGfxJobOverride
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -1483,6 +1635,14 @@ Preset:
   - target: {fileID: 0}
     propertyPath: microphoneUsageDescription
     value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bluetoothUsageDescription
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: macOSTargetOSVersion
+    value: 11.0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: switchNMETAOverride
@@ -1513,7 +1673,11 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: switchUseGOLDLinker
+    propertyPath: switchEnableFileSystemTrace
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchLTOSetting
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -1522,6 +1686,10 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: switchNSODependencies
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchCompilerFlags
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -1585,6 +1753,10 @@ Preset:
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: switchTitleNames_15
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: switchPublisherNames_0
     value: 
     objectReference: {fileID: 0}
@@ -1642,6 +1814,10 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: switchPublisherNames_14
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchPublisherNames_15
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -1705,6 +1881,10 @@ Preset:
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: switchIcons_15
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: switchSmallIcons_0
     value: 
     objectReference: {fileID: 0}
@@ -1765,6 +1945,10 @@ Preset:
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: switchSmallIcons_15
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: switchManualHTML
     value: 
     objectReference: {fileID: 0}
@@ -1798,10 +1982,6 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: switchStartupUserAccount
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: switchTouchScreenUsage
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -1969,6 +2149,10 @@ Preset:
     value: 8
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: switchEnableTouchScreen
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: switchSocketConfigEnabled
     value: 0
     objectReference: {fileID: 0}
@@ -2009,8 +2193,36 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: switchPlayerConnectionEnabled
+    propertyPath: switchDisableHTCSPlayerConnection
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchUseNewStyleFilepaths
     value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchUseLegacyFmodPriorities
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchUseMicroSleepForYield
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchEnableRamDiskSupport
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchMicroSleepForYieldTime
+    value: 25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchRamDiskSpaceSize
+    value: 12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: switchUpgradedPlayerSettingsToNMETA
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: ps4NPAgeRating
@@ -2293,6 +2505,10 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: ps4AllowPS5Detection
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: ps4GPU800MHz
     value: 1
     objectReference: {fileID: 0}
@@ -2338,6 +2554,10 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: webGLNameFilesAsHashes
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLShowDiagnostics
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -2389,7 +2609,59 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: webGLInitialMemorySize
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLMaximumMemorySize
+    value: 2048
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLMemoryGrowthMode
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLMemoryLinearGrowthStep
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLMemoryGeometricGrowthStep
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLMemoryGeometricGrowthCap
+    value: 96
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLEnableWebGPU
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLPowerPreference
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLWebAssemblyTable
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLWebAssemblyBigInt
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webGLCloseOnQuit
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: webWasm2023
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: scriptingDefineSymbols.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: additionalCompilerArguments.Array.size
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -2405,12 +2677,24 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: il2cppCodeGeneration.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: il2cppStacktraceInformation.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: managedStrippingLevel.Array.size
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: incrementalIl2cppBuild.Array.size
     value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: suppressCommonWarnings
+    value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: allowUnsafeCode
@@ -2447,6 +2731,10 @@ Preset:
   - target: {fileID: 0}
     propertyPath: apiCompatibilityLevelPerPlatform.Array.data[0].second
     value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: editorAssembliesCompatibilityLevel
+    value: 2
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_RenderingPath
@@ -2565,6 +2853,10 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: syncCapabilities
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: platformCapabilities.Array.size
     value: 0
     objectReference: {fileID: 0}
@@ -2582,6 +2874,10 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: metroProtocolName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: vcxProjDefaultLanguage
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -2641,7 +2937,7 @@ Preset:
     value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: XboxOneLanguage.Array.data[0]
+    propertyPath: 'XboxOneLanguage.Array.data[0]'
     value: enus
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -2654,6 +2950,10 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: XboxOneIsContentPackage
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: XboxOneEnhancedXboxCompatibilityMode
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -2686,14 +2986,6 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: XboxOneOverrideIdentityPublisher
-    value: 
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrEditorSettings.daydream.daydreamIconForeground
-    value: 
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: vrEditorSettings.daydream.daydreamIconBackground
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -2741,8 +3033,44 @@ Preset:
     value: 
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: hmiPlayerDataPath
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: hmiForceSRGBBlit
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: embeddedLinuxEnableGamepadInput
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: hmiCpuConfiguration.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: hmiLogStartupTiming
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: qnxGraphicConfPath
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: apiCompatibilityLevel
     value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: captureStartupLogs.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: activeInputHandler
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: windowsGamepadBackendHint
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: cloudProjectId
@@ -2750,6 +3078,10 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: framebufferDepthMemorylessMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: qualitySettingsNames.Array.size
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
@@ -2765,19 +3097,36 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
-    propertyPath: enableNativePlatformBackendsForNewInputSystem
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
-    propertyPath: disableOldInputManagerSupport
-    value: 0
-    objectReference: {fileID: 0}
-  - target: {fileID: 0}
     propertyPath: legacyClampBlendShapeWeights
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: hmiLoadingImage
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: platformRequiresReadableAssets
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: virtualTexturingSupportEnabled
     value: 0
     objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: insecureHttpOption
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidVulkanDenyFilterList.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: androidVulkanAllowFilterList.Array.size
+    value: 0
+    objectReference: {fileID: 0}
   m_ExcludedProperties: []
+  m_CoupledType:
+    m_NativeTypeID: 0
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_CoupledProperties: []

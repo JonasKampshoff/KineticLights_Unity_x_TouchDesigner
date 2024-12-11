@@ -5,7 +5,6 @@ namespace Klak.Spout {
 //
 // Spout receiver class (main implementation)
 //
-[ExecuteInEditMode]
 [AddComponentMenu("Klak/Spout/Spout Receiver")]
 public sealed partial class SpoutReceiver : MonoBehaviour
 {

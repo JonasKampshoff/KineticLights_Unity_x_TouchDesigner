@@ -6,7 +6,6 @@ using IA;
 
 namespace IA
 {
-    [ExecuteAlways]
     public abstract class DMXFixture : MonoBehaviour
     {
 
@@ -72,6 +71,11 @@ namespace IA
         public const string HARD_SOFT = "Hard / Soft";
         public const string SILENT_NORMAL_BOOST = "Silent / Normal / Boost";
         public const string DIMMER = "Dimmer";
+        public const string LIFT = "Lift";
+        public const string LIFT_FINE = "Lift fine";
+        public const string SPEED = "Speed";
+        public const string COLOR_MACRO = "Color macro";
+        public const string CONTROL = "Control";
     }
-    
+
 }
